@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://nielohgoo.cs160.ninja/sitemap.xml
